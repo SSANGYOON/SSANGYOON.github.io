@@ -1,7 +1,6 @@
 ---
 layout : single
-title : "부스트캠프 3주차- deep learning basics-optimization
-​---
+title : "부스트캠프 3주차- deep learning basics-optimization"
 ---
 
 
